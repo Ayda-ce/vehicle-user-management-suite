@@ -1,7 +1,5 @@
 # 🚗 VehicleUserManagementSuite (C++)
-
-A capable C++ console app that manages **users**, **vehicles**, and a **manager profile** - with plain-text storage and a clean CLI. ✨
-
+A capable C++ console app that manages **users**, **vehicles**, and a **manager profile** with plain-text storage and a clean CLI. ✨
 ## ✨ Features
 - 👤 **Users:** add, list (name, national code, password)
 - 🚘 **Vehicles:** add, list (code, brand, model, capacity)
